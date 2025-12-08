@@ -4,3 +4,9 @@ busybox:latest
 rockylinux:9
 nginx:latest
 httpd:2.4
+alertmanager:v0.29.0
+prometheus:v3.8.0
+node-exporter:v1.10.2
+mysqld-exporter:v0.18.0
+grafana:12.1
+loki:latest
