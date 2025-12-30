@@ -1,1 +1,2 @@
-gci.io/cadvisor/cadvisor:v0.55.1
+google/cadvisor:latest
+sebp/elk:latest
