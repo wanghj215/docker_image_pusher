@@ -1,1 +1,1 @@
-cadvisor:latest
+goodle/cadvisor:latest
