@@ -1,1 +1,1 @@
-httpd:2
+cadvisor:latest
