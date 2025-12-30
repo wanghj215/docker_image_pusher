@@ -1,2 +1,2 @@
-google/cadvisor:latest
+google/cadvisor:v0.55.1
 sebp/elk:latest
