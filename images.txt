@@ -1,1 +1,1 @@
-goodle/cadvisor:latest
+gci.io/cadvisor/cadvisor:v0.55.1
