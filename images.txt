@@ -1,2 +1,5 @@
-gcr.io/cadvisor/cadvisor:v0.55.1
-sebp/elk:latest
+cadvisor:v0.55.1
+prom/node-exporter:v1.10.2
+prom/prometheus:v3.8.1
+prom/alertmanager:v0.30.0
+grafana/grafana:latest
