@@ -1,5 +1,7 @@
-cadvisor:v0.55.1
+google/cadvisor:latest
 prom/node-exporter:v1.10.2
-prom/prometheus:v3.8.1
-prom/alertmanager:v0.30.0
-grafana/grafana:latest
+prom/prometheus:v3.8.0
+prom/alertmanager:v0.29.0
+grafana/grafana:12.1
+google/loki:latest
+prom/mysqld-exporter:v0.18.0
